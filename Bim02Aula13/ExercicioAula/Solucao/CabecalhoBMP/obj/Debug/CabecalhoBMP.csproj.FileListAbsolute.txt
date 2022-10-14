@@ -1,0 +1,34 @@
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula10\CabecalhoBMP\CabecalhoBMP\bin\Debug\CabecalhoBMP.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula10\CabecalhoBMP\CabecalhoBMP\bin\Debug\CabecalhoBMP.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula10\CabecalhoBMP\CabecalhoBMP\bin\Debug\CabecalhoBMP.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula10\CabecalhoBMP\CabecalhoBMP\obj\Debug\CabecalhoBMP.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula10\CabecalhoBMP\CabecalhoBMP\obj\Debug\CabecalhoBMP.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula10\CabecalhoBMP\CabecalhoBMP\obj\Debug\CabecalhoBMP.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim02Aula21\SolucaoAula20\CabecalhoBMP\bin\Debug\CabecalhoBMP.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim02Aula21\SolucaoAula20\CabecalhoBMP\bin\Debug\CabecalhoBMP.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim02Aula21\SolucaoAula20\CabecalhoBMP\bin\Debug\CabecalhoBMP.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim02Aula21\SolucaoAula20\CabecalhoBMP\obj\Debug\CabecalhoBMP.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim02Aula21\SolucaoAula20\CabecalhoBMP\obj\Debug\CabecalhoBMP.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim02Aula21\SolucaoAula20\CabecalhoBMP\obj\Debug\CabecalhoBMP.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim02Aula10\ExercicioAula\Solucao\CabecalhoBMP\bin\Debug\CabecalhoBMP.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim02Aula10\ExercicioAula\Solucao\CabecalhoBMP\bin\Debug\CabecalhoBMP.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim02Aula10\ExercicioAula\Solucao\CabecalhoBMP\bin\Debug\CabecalhoBMP.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim02Aula10\ExercicioAula\Solucao\CabecalhoBMP\obj\Debug\CabecalhoBMP.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim02Aula10\ExercicioAula\Solucao\CabecalhoBMP\obj\Debug\CabecalhoBMP.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim02Aula10\ExercicioAula\Solucao\CabecalhoBMP\obj\Debug\CabecalhoBMP.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim02Aula10\ExercicioAula\Solucao\CabecalhoBMP\obj\Debug\CabecalhoBMP.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim02Aula13\ExercicioAula\Solucao\CabecalhoBMP\bin\Debug\CabecalhoBMP.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim02Aula13\ExercicioAula\Solucao\CabecalhoBMP\bin\Debug\CabecalhoBMP.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim02Aula13\ExercicioAula\Solucao\CabecalhoBMP\bin\Debug\CabecalhoBMP.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim02Aula13\ExercicioAula\Solucao\CabecalhoBMP\obj\Debug\CabecalhoBMP.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim02Aula13\ExercicioAula\Solucao\CabecalhoBMP\obj\Debug\CabecalhoBMP.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim02Aula13\ExercicioAula\Solucao\CabecalhoBMP\obj\Debug\CabecalhoBMP.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim02Aula13\ExercicioAula\Solucao\CabecalhoBMP\obj\Debug\CabecalhoBMP.pdb
+C:\Users\unisanta\Downloads\Bim02Aula13\ExercicioAula\Solucao\CabecalhoBMP\bin\Debug\CabecalhoBMP.exe.config
+C:\Users\unisanta\Downloads\Bim02Aula13\ExercicioAula\Solucao\CabecalhoBMP\bin\Debug\CabecalhoBMP.exe
+C:\Users\unisanta\Downloads\Bim02Aula13\ExercicioAula\Solucao\CabecalhoBMP\bin\Debug\CabecalhoBMP.pdb
+C:\Users\unisanta\Downloads\Bim02Aula13\ExercicioAula\Solucao\CabecalhoBMP\obj\Debug\CabecalhoBMP.csproj.AssemblyReference.cache
+C:\Users\unisanta\Downloads\Bim02Aula13\ExercicioAula\Solucao\CabecalhoBMP\obj\Debug\CabecalhoBMP.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Downloads\Bim02Aula13\ExercicioAula\Solucao\CabecalhoBMP\obj\Debug\CabecalhoBMP.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Downloads\Bim02Aula13\ExercicioAula\Solucao\CabecalhoBMP\obj\Debug\CabecalhoBMP.exe
+C:\Users\unisanta\Downloads\Bim02Aula13\ExercicioAula\Solucao\CabecalhoBMP\obj\Debug\CabecalhoBMP.pdb
